@@ -1,0 +1,6 @@
+{
+  "suggested_slug": "germany-minijob-pension-calculator",
+  "intent": "Optimize contributions to avoid German pension deduction traps under the new 538 EUR limit",
+  "api_endpoint": "/tax?country=DE",
+  "seo_priority": "CRITICAL"
+}
