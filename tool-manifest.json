@@ -1,0 +1,14 @@
+{
+  "slug": "germany-minijob-pension-calculator",
+  "type": "calculator_or_tool",
+  "country": "DE",
+  "category": "labor_tax",
+  "official_sources": [
+    "https://www.deutsche-rentenversicherung.de/",
+    "https://www.minijob-zentrale.de/",
+    "https://www.bundesfinanzministerium.de/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "Minijob and pension rules depend on income thresholds and insurance choices."
+}
